@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Slovakia",Jednotka
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
+#EXTINF:0,STV 2 
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
+#EXTINF:0,STV3 
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
+
+#EXTINF:-1,SK:MARKIZA
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/61193
+
+#EXTINF:-1,SK:JOJ
+https://nn.geo.joj.sk/live/hls/joj-720.m3u8
+
+#EXTINF:-1,SK:JOJ+
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/61188
+
+#EXTINF:-1,SK:JOJ FAMILY
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/61189
+
+#EXTINF:-1,SK:JOJ PLUS
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/61190
+
+#EXTINF:-1,SK:DOMA
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/61191
+
+#EXTINF:-1,SK:TA3
+http://sktv-forwarders.7m.pl/get.php?x=TA3
+
+#EXTINF:-1,SK:WAV
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/61192
+
+#EXTINF:-1,SK:Spektrum
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30938
+
+#EXTINF:-1,SK:COOL
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30952
+
+#EXTINF:-1,SK:ZOOM
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30970
+
+#EXTINF:-1,SK:DAJTO
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30976
+
+#EXTINF:-1,SK:DAJTO
+https://list.iptvcat.com/my_list/s/69d31dd32fec5ab38725fe58e4feec89.m3u8
+
+#EXTINF:-1,SK:Comedy central
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30973
+
+#EXTINF:-1,SK:Film AXN
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30966
+
+#EXTINF:-1,SK:LUX
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/61195
+
+#EXTINF:-1,SK:LUX2
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+
+#EXTINF:-1,CZ:NOVACz
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/31019
+
+#EXTINF:-1,CZ:NOVA GOLD
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30957
+
+#EXTINF:-1,CZ:NovaAction
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30916
+
+#EXTINF:-1,CZ:CS Film
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/31018
+
+#EXTINF:-1,CZ:PRIMA
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30909
+
+#EXTINF:-1,CZ:PRIMA LOVE
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30972
+
+#EXTINF:-1,CZ:PrimaMax
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30907
+
+#EXTINF:-1,CZ:FILMBOX
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30940
+
+#EXTINF:-1,CZ:HBO
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/30932
+
+#EXTINF:-1,SK:REDUTA SNV
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/61205
+
+#EXTINF:-1,PL:MOTOR
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/33485
+
+#EXTINF:-1,PL:Comedy
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/33505
+
+
+#EXTINF:-1,PL:TVP1
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/33400
+
+#EXTINF:-1,PL:TVP2
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/33399
+
+#EXTINF:-1,PL:DOKUMENT PL
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/33512
+
+#EXTINF:-1,PL:SPRAVY PL
+http://mli03.wanicelife.com:8880/SWFAF00281/49P6ADQU/33395
+
+
+#EXTINF:0,LUMEN
+http://audio.lumen.sk:8000/live128.mp3
+
+
+#EXTINF:0,MOTORVISION TV
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
+#EXTINF:0,MOTORVISION TVDvojka
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
+#EXTINF:0,MOTORVISION TVTrojka
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
+
+#EXTINF:0,Markiza International
+https://list.iptvcat.com/my_list/s/96f28c7de7673349e5f99a3c996e008a.m3u8
+
+#EXTINF:0, TA3
+http://213.151.233.20:8000/dna-5108-tv-pc.m3u8
